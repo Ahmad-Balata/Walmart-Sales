@@ -87,7 +87,7 @@ These visualizations allow users to quickly explore patterns and trends in Walma
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.png)
 
 ---
 
